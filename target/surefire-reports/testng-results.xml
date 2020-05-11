@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="69" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="69" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="appStart()[pri:0, instance:qaclickacademy.AppiumTest@5ae9a829]" name="appStart" duration-ms="13" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appStart -->
+        <test-method status="PASS" signature="appStop()[pri:0, instance:qaclickacademy.AppiumTest@5ae9a829]" name="appStop" duration-ms="2" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appStop -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="restStart()[pri:0, instance:qaclickacademy.RestAPITest@6d8a00e3]" name="restStart" duration-ms="0" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restStart -->
+        <test-method status="PASS" signature="restStop()[pri:0, instance:qaclickacademy.RestAPITest@6d8a00e3]" name="restStop" duration-ms="0" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restStop -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="selStart()[pri:0, instance:qaclickacademy.SeleniumTest@548b7f67]" name="selStart" duration-ms="1" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selStart -->
+        <test-method status="PASS" signature="selStop()[pri:0, instance:qaclickacademy.SeleniumTest@548b7f67]" name="selStop" duration-ms="0" started-at="2020-04-23T04:36:47Z" finished-at="2020-04-23T04:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selStop -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
